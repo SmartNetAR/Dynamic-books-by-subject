@@ -2,363 +2,365 @@
     {
         "id": "1A",
         "name": "Programming Basics",
-        "sections": {
-            "id": 1,
-            "name": "grammar",
-            "title": "present simple",
-            "activities": [
-                {
-                    "id": "a",
-                    "title": "Put the words into the correct place in the questions.",
-                    "type": "put-words",
-                    "exercises": [
-                        {
-                            "id": 1,
-                            "statement": "Do you write code every day?",
-                            "words": [
-                                "do"
-                            ],
-                            "expectedResponse": "",
-                            "userResponse": {
-                                "text": ""
-                            }
-                        },
-                        {
-                            "id": 2,
-                            "statement": "Does she use Python for development?",
-                            "words": [
-                                "does"
-                            ],
-                            "expectedResponse": "",
-                            "userResponse": {
-                                "text": ""
-                            }
-                        },
-                        {
-                            "id": 3,
-                            "statement": "Where do you store your code?",
-                            "words": [
-                                "do"
-                            ],
-                            "expectedResponse": "",
-                            "userResponse": {
-                                "text": ""
-                            }
-                        },
-                        {
-                            "id": 4,
-                            "statement": "What tools does he prefer?",
-                            "words": [
-                                "does"
-                            ],
-                            "expectedResponse": "",
-                            "userResponse": {
-                                "text": ""
-                            }
-                        },
-                        {
-                            "id": 5,
-                            "statement": "When do they deploy the app?",
-                            "words": [
-                                "do"
-                            ],
-                            "expectedResponse": "",
-                            "userResponse": {
-                                "text": ""
-                            }
-                        },
-                        {
-                            "id": 6,
-                            "statement": "Why do you learn new programming languages?",
-                            "words": [
-                                "do"
-                            ],
-                            "expectedResponse": "",
-                            "userResponse": {
-                                "text": ""
-                            }
-                        },
-                        {
-                            "id": 7,
-                            "statement": "How often does he update the software?",
-                            "words": [
-                                "does"
-                            ],
-                            "expectedResponse": "",
-                            "userResponse": {
-                                "text": ""
-                            }
-                        },
-                        {
-                            "id": 8,
-                            "statement": "Which IDE do you use for coding?",
-                            "words": [
-                                "do"
-                            ],
-                            "expectedResponse": "",
-                            "userResponse": {
-                                "text": ""
-                            }
-                        }
-                    ]
-                },
-                {
-                    "id": "b",
-                    "title": "Write questions in the present simple.",
-                    "type": "write-questions",
-                    "exercises": [
-                        {
-                            "id": 1,
-                            "statement": "What programming language do you use?",
-                            "words": [
-                                "you / use"
-                            ],
-                            "expectedResponse": "do you use",
-                            "userResponse": {
-                                "text": "What programming language do you use?"
-                            }
-                        },
-                        {
-                            "id": 2,
-                            "statement": "Where does she store her code?",
-                            "words": [
-                                "she / store her code"
-                            ],
-                            "expectedResponse": "does she store her code",
-                            "userResponse": {
-                                "text": ""
-                            }
-                        },
-                        {
-                            "id": 3,
-                            "statement": "When do they start coding?",
-                            "words": [
-                                "they / start coding"
-                            ],
-                            "expectedResponse": "do they start coding",
-                            "userResponse": {
-                                "text": ""
-                            }
-                        },
-                        {
-                            "id": 4,
-                            "statement": "Why do you learn JavaScript?",
-                            "words": [
-                                "you / learn JavaScript"
-                            ],
-                            "expectedResponse": "do you learn JavaScript",
-                            "userResponse": {
-                                "text": ""
-                            }
-                        },
-                        {
-                            "id": 5,
-                            "statement": "How often does he debug the code?",
-                            "words": [
-                                "he / debug the code"
-                            ],
-                            "expectedResponse": "does he debug the code",
-                            "userResponse": {
-                                "text": ""
-                            }
-                        },
-                        {
-                            "id": 6,
-                            "statement": "Which version control system do you use?",
-                            "words": [
-                                "you / use"
-                            ],
-                            "expectedResponse": "do you use",
-                            "userResponse": {
-                                "text": ""
-                            }
-                        },
-                        {
-                            "id": 7,
-                            "statement": "What kind of projects does she develop?",
-                            "words": [
-                                "she / develop"
-                            ],
-                            "expectedResponse": "does she develop",
-                            "userResponse": {
-                                "text": ""
-                            }
-                        },
-                        {
-                            "id": 8,
-                            "statement": "Where do they host their applications?",
-                            "words": [
-                                "they / host their applications"
-                            ],
-                            "expectedResponse": "do they host their applications",
-                            "userResponse": {
-                                "text": ""
-                            }
-                        }
-                    ]
-                },
-                {
-                    "id": "c",
-                    "title": "Write negative sentences.",
-                    "type": "write-sentence",
-                    "exercises": [
-                        {
-                            "id": 1,
-                            "statement": "You write code in Python.",
-                            "expectedResponse": "You don't write code in Python.",
-                            "userResponse": {
-                                "text": ""
+        "sections": [
+            {
+                "id": 1,
+                "name": "grammar",
+                "title": "present simple",
+                "activities": [
+                    {
+                        "id": "a",
+                        "title": "Put the words into the correct place in the questions.",
+                        "type": "put-words",
+                        "exercises": [
+                            {
+                                "id": 1,
+                                "statement": "Do you write code every day?",
+                                "words": [
+                                    "do"
+                                ],
+                                "expectedResponse": "",
+                                "userResponse": {
+                                    "text": ""
+                                }
                             },
-                            "words": []
-                        },
-                        {
-                            "id": 2,
-                            "statement": "She uses an IDE.",
-                            "expectedResponse": "She doesn't use an IDE.",
-                            "userResponse": {
-                                "text": ""
+                            {
+                                "id": 2,
+                                "statement": "Does she use Python for development?",
+                                "words": [
+                                    "does"
+                                ],
+                                "expectedResponse": "",
+                                "userResponse": {
+                                    "text": ""
+                                }
                             },
-                            "words": []
-                        },
-                        {
-                            "id": 3,
-                            "statement": "They deploy the app every day.",
-                            "expectedResponse": "They don't deploy the app every day.",
-                            "userResponse": {
-                                "text": ""
+                            {
+                                "id": 3,
+                                "statement": "Where do you store your code?",
+                                "words": [
+                                    "do"
+                                ],
+                                "expectedResponse": "",
+                                "userResponse": {
+                                    "text": ""
+                                }
                             },
-                            "words": []
-                        },
-                        {
-                            "id": 4,
-                            "statement": "He writes clean code.",
-                            "expectedResponse": "He doesn't write clean code.",
-                            "userResponse": {
-                                "text": ""
+                            {
+                                "id": 4,
+                                "statement": "What tools does he prefer?",
+                                "words": [
+                                    "does"
+                                ],
+                                "expectedResponse": "",
+                                "userResponse": {
+                                    "text": ""
+                                }
                             },
-                            "words": []
-                        },
-                        {
-                            "id": 5,
-                            "statement": "We use Git for version control.",
-                            "expectedResponse": "We don't use Git for version control.",
-                            "userResponse": {
-                                "text": ""
+                            {
+                                "id": 5,
+                                "statement": "When do they deploy the app?",
+                                "words": [
+                                    "do"
+                                ],
+                                "expectedResponse": "",
+                                "userResponse": {
+                                    "text": ""
+                                }
                             },
-                            "words": []
-                        },
-                        {
-                            "id": 6,
-                            "statement": "I debug the code regularly.",
-                            "expectedResponse": "I don't debug the code regularly.",
-                            "userResponse": {
-                                "text": ""
+                            {
+                                "id": 6,
+                                "statement": "Why do you learn new programming languages?",
+                                "words": [
+                                    "do"
+                                ],
+                                "expectedResponse": "",
+                                "userResponse": {
+                                    "text": ""
+                                }
                             },
-                            "words": []
-                        },
-                        {
-                            "id": 7,
-                            "statement": "She develops web applications.",
-                            "expectedResponse": "She doesn't develop web applications.",
-                            "userResponse": {
-                                "text": ""
+                            {
+                                "id": 7,
+                                "statement": "How often does he update the software?",
+                                "words": [
+                                    "does"
+                                ],
+                                "expectedResponse": "",
+                                "userResponse": {
+                                    "text": ""
+                                }
                             },
-                            "words": []
-                        }
-                    ]
-                },
-                {
-                    "id": "d",
-                    "title": "Complete the questions with do or does.",
-                    "type": "put-words",
-                    "exercises": [
-                        {
-                            "id": 1,
-                            "statement": "When do you write code?",
-                            "words": [
-                                "do",
-                                "does"
-                            ],
-                            "expectedResponse": "do",
-                            "userResponse": {
-                                "text": ""
+                            {
+                                "id": 8,
+                                "statement": "Which IDE do you use for coding?",
+                                "words": [
+                                    "do"
+                                ],
+                                "expectedResponse": "",
+                                "userResponse": {
+                                    "text": ""
+                                }
                             }
-                        },
-                        {
-                            "id": 2,
-                            "statement": "Does she know how to use Git?",
-                            "words": [
-                                "do",
-                                "does"
-                            ],
-                            "expectedResponse": "does",
-                            "userResponse": {
-                                "text": ""
+                        ]
+                    },
+                    {
+                        "id": "b",
+                        "title": "Write questions in the present simple.",
+                        "type": "write-questions",
+                        "exercises": [
+                            {
+                                "id": 1,
+                                "statement": "What programming language do you use?",
+                                "words": [
+                                    "you / use"
+                                ],
+                                "expectedResponse": "do you use",
+                                "userResponse": {
+                                    "text": "What programming language do you use?"
+                                }
+                            },
+                            {
+                                "id": 2,
+                                "statement": "Where does she store her code?",
+                                "words": [
+                                    "she / store her code"
+                                ],
+                                "expectedResponse": "does she store her code",
+                                "userResponse": {
+                                    "text": ""
+                                }
+                            },
+                            {
+                                "id": 3,
+                                "statement": "When do they start coding?",
+                                "words": [
+                                    "they / start coding"
+                                ],
+                                "expectedResponse": "do they start coding",
+                                "userResponse": {
+                                    "text": ""
+                                }
+                            },
+                            {
+                                "id": 4,
+                                "statement": "Why do you learn JavaScript?",
+                                "words": [
+                                    "you / learn JavaScript"
+                                ],
+                                "expectedResponse": "do you learn JavaScript",
+                                "userResponse": {
+                                    "text": ""
+                                }
+                            },
+                            {
+                                "id": 5,
+                                "statement": "How often does he debug the code?",
+                                "words": [
+                                    "he / debug the code"
+                                ],
+                                "expectedResponse": "does he debug the code",
+                                "userResponse": {
+                                    "text": ""
+                                }
+                            },
+                            {
+                                "id": 6,
+                                "statement": "Which version control system do you use?",
+                                "words": [
+                                    "you / use"
+                                ],
+                                "expectedResponse": "do you use",
+                                "userResponse": {
+                                    "text": ""
+                                }
+                            },
+                            {
+                                "id": 7,
+                                "statement": "What kind of projects does she develop?",
+                                "words": [
+                                    "she / develop"
+                                ],
+                                "expectedResponse": "does she develop",
+                                "userResponse": {
+                                    "text": ""
+                                }
+                            },
+                            {
+                                "id": 8,
+                                "statement": "Where do they host their applications?",
+                                "words": [
+                                    "they / host their applications"
+                                ],
+                                "expectedResponse": "do they host their applications",
+                                "userResponse": {
+                                    "text": ""
+                                }
                             }
-                        },
-                        {
-                            "id": 3,
-                            "statement": "What time do they start the project?",
-                            "words": [
-                                "do",
-                                "does"
-                            ],
-                            "expectedResponse": "do",
-                            "userResponse": {
-                                "text": ""
+                        ]
+                    },
+                    {
+                        "id": "c",
+                        "title": "Write negative sentences.",
+                        "type": "write-sentence",
+                        "exercises": [
+                            {
+                                "id": 1,
+                                "statement": "You write code in Python.",
+                                "expectedResponse": "You don't write code in Python.",
+                                "userResponse": {
+                                    "text": ""
+                                },
+                                "words": []
+                            },
+                            {
+                                "id": 2,
+                                "statement": "She uses an IDE.",
+                                "expectedResponse": "She doesn't use an IDE.",
+                                "userResponse": {
+                                    "text": ""
+                                },
+                                "words": []
+                            },
+                            {
+                                "id": 3,
+                                "statement": "They deploy the app every day.",
+                                "expectedResponse": "They don't deploy the app every day.",
+                                "userResponse": {
+                                    "text": ""
+                                },
+                                "words": []
+                            },
+                            {
+                                "id": 4,
+                                "statement": "He writes clean code.",
+                                "expectedResponse": "He doesn't write clean code.",
+                                "userResponse": {
+                                    "text": ""
+                                },
+                                "words": []
+                            },
+                            {
+                                "id": 5,
+                                "statement": "We use Git for version control.",
+                                "expectedResponse": "We don't use Git for version control.",
+                                "userResponse": {
+                                    "text": ""
+                                },
+                                "words": []
+                            },
+                            {
+                                "id": 6,
+                                "statement": "I debug the code regularly.",
+                                "expectedResponse": "I don't debug the code regularly.",
+                                "userResponse": {
+                                    "text": ""
+                                },
+                                "words": []
+                            },
+                            {
+                                "id": 7,
+                                "statement": "She develops web applications.",
+                                "expectedResponse": "She doesn't develop web applications.",
+                                "userResponse": {
+                                    "text": ""
+                                },
+                                "words": []
                             }
-                        },
-                        {
-                            "id": 4,
-                            "statement": "Does he work from home?",
-                            "words": [
-                                "do",
-                                "does"
-                            ],
-                            "expectedResponse": "does",
-                            "userResponse": {
-                                "text": ""
+                        ]
+                    },
+                    {
+                        "id": "d",
+                        "title": "Complete the questions with do or does.",
+                        "type": "put-words",
+                        "exercises": [
+                            {
+                                "id": 1,
+                                "statement": "When do you write code?",
+                                "words": [
+                                    "do",
+                                    "does"
+                                ],
+                                "expectedResponse": "do",
+                                "userResponse": {
+                                    "text": ""
+                                }
+                            },
+                            {
+                                "id": 2,
+                                "statement": "Does she know how to use Git?",
+                                "words": [
+                                    "do",
+                                    "does"
+                                ],
+                                "expectedResponse": "does",
+                                "userResponse": {
+                                    "text": ""
+                                }
+                            },
+                            {
+                                "id": 3,
+                                "statement": "What time do they start the project?",
+                                "words": [
+                                    "do",
+                                    "does"
+                                ],
+                                "expectedResponse": "do",
+                                "userResponse": {
+                                    "text": ""
+                                }
+                            },
+                            {
+                                "id": 4,
+                                "statement": "Does he work from home?",
+                                "words": [
+                                    "do",
+                                    "does"
+                                ],
+                                "expectedResponse": "does",
+                                "userResponse": {
+                                    "text": ""
+                                }
+                            },
+                            {
+                                "id": 5,
+                                "statement": "Which programming languages do you learn?",
+                                "words": [
+                                    "do",
+                                    "does"
+                                ],
+                                "expectedResponse": "do",
+                                "userResponse": {
+                                    "text": ""
+                                }
+                            },
+                            {
+                                "id": 6,
+                                "statement": "Does your team meet daily?",
+                                "words": [
+                                    "do",
+                                    "does"
+                                ],
+                                "expectedResponse": "does",
+                                "userResponse": {
+                                    "text": ""
+                                }
+                            },
+                            {
+                                "id": 7,
+                                "statement": "Does she enjoy coding?",
+                                "words": [
+                                    "do",
+                                    "does"
+                                ],
+                                "expectedResponse": "does",
+                                "userResponse": {
+                                    "text": ""
+                                }
                             }
-                        },
-                        {
-                            "id": 5,
-                            "statement": "Which programming languages do you learn?",
-                            "words": [
-                                "do",
-                                "does"
-                            ],
-                            "expectedResponse": "do",
-                            "userResponse": {
-                                "text": ""
-                            }
-                        },
-                        {
-                            "id": 6,
-                            "statement": "Does your team meet daily?",
-                            "words": [
-                                "do",
-                                "does"
-                            ],
-                            "expectedResponse": "does",
-                            "userResponse": {
-                                "text": ""
-                            }
-                        },
-                        {
-                            "id": 7,
-                            "statement": "Does she enjoy coding?",
-                            "words": [
-                                "do",
-                                "does"
-                            ],
-                            "expectedResponse": "does",
-                            "userResponse": {
-                                "text": ""
-                            }
-                        }
-                    ]
-                }
-            ]
-        }
+                        ]
+                    }
+                ]
+            }
+        ]
     }
 ]
