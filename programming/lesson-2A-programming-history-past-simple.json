@@ -1,0 +1,355 @@
+[
+  {
+    "id": "2A",
+    "name": "Programming History",
+    "sections": {
+      "id": 1,
+      "name": "grammar",
+      "title": "past simple",
+      "activities": [
+        {
+          "id": "a",
+          "title": "Put the words into the correct place in the questions.",
+          "type": "put-words",
+          "exercises": [
+            {
+              "id": 1,
+              "statement": "When did you learn Python?",
+              "words": [
+                "did"
+              ],
+              "expectedResponse": "",
+              "userResponse": {
+                "text": ""
+              }
+            },
+            {
+              "id": 2,
+              "statement": "What programming languages did they use in the 90s?",
+              "words": [
+                "did"
+              ],
+              "expectedResponse": "",
+              "userResponse": {
+                "text": ""
+              }
+            },
+            {
+              "id": 3,
+              "statement": "Where did she work before joining Google?",
+              "words": [
+                "did"
+              ],
+              "expectedResponse": "",
+              "userResponse": {
+                "text": ""
+              }
+            },
+            {
+              "id": 4,
+              "statement": "How did you solve the bug in the code?",
+              "words": [
+                "did"
+              ],
+              "expectedResponse": "",
+              "userResponse": {
+                "text": ""
+              }
+            },
+            {
+              "id": 5,
+              "statement": "Why did they choose open-source software?",
+              "words": [
+                "did"
+              ],
+              "expectedResponse": "",
+              "userResponse": {
+                "text": ""
+              }
+            },
+            {
+              "id": 6,
+              "statement": "Which company created the first web browser?",
+              "words": [],
+              "expectedResponse": "",
+              "userResponse": {
+                "text": ""
+              }
+            },
+            {
+              "id": 7,
+              "statement": "When did you start learning programming?",
+              "words": [
+                "did"
+              ],
+              "expectedResponse": "",
+              "userResponse": {
+                "text": ""
+              }
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "title": "Write questions in the past simple.",
+          "type": "write-questions",
+          "exercises": [
+            {
+              "id": 1,
+              "statement": "When did they release the first version of Linux?",
+              "words": [
+                "they / release the first version of Linux"
+              ],
+              "expectedResponse": "did they release the first version of Linux",
+              "userResponse": {
+                "text": "When did they release the first version of Linux?"
+              }
+            },
+            {
+              "id": 2,
+              "statement": "What programming languages did he learn in college?",
+              "words": [
+                "he / learn in college"
+              ],
+              "expectedResponse": "did he learn in college",
+              "userResponse": {
+                "text": ""
+              }
+            },
+            {
+              "id": 3,
+              "statement": "Where did you work before joining this company?",
+              "words": [
+                "you / work before joining this company"
+              ],
+              "expectedResponse": "did you work before joining this company",
+              "userResponse": {
+                "text": ""
+              }
+            },
+            {
+              "id": 4,
+              "statement": "Why did she choose to study computer science?",
+              "words": [
+                "she / choose to study computer science"
+              ],
+              "expectedResponse": "did she choose to study computer science",
+              "userResponse": {
+                "text": ""
+              }
+            },
+            {
+              "id": 5,
+              "statement": "How did you debug the application?",
+              "words": [
+                "you / debug the application"
+              ],
+              "expectedResponse": "did you debug the application",
+              "userResponse": {
+                "text": ""
+              }
+            },
+            {
+              "id": 6,
+              "statement": "Which operating system did they use in the 80s?",
+              "words": [
+                "they / use in the 80s"
+              ],
+              "expectedResponse": "did they use in the 80s",
+              "userResponse": {
+                "text": ""
+              }
+            },
+            {
+              "id": 7,
+              "statement": "What tools did he prefer for development?",
+              "words": [
+                "he / prefer for development"
+              ],
+              "expectedResponse": "did he prefer for development",
+              "userResponse": {
+                "text": ""
+              }
+            },
+            {
+              "id": 8,
+              "statement": "Where did they host their websites before cloud computing?",
+              "words": [
+                "they / host their websites before cloud computing"
+              ],
+              "expectedResponse": "did they host their websites before cloud computing",
+              "userResponse": {
+                "text": ""
+              }
+            },
+            {
+              "id": 9,
+              "statement": "Who developed the first computer?",
+              "words": [
+                "develop / the first computer"
+              ],
+              "expectedResponse": "developed the first computer",
+              "userResponse": {
+                "text": ""
+              }
+            }
+          ]
+        },
+        {
+          "id": "c",
+          "title": "Write negative sentences.",
+          "type": "write-sentence",
+          "exercises": [
+            {
+              "id": 1,
+              "statement": "He used JavaScript in his first project.",
+              "expectedResponse": "He didn't use JavaScript in his first project.",
+              "userResponse": {
+                "text": ""
+              },
+              "words": []
+            },
+            {
+              "id": 2,
+              "statement": "They developed the software in-house.",
+              "expectedResponse": "They didn't develop the software in-house.",
+              "userResponse": {
+                "text": ""
+              },
+              "words": []
+            },
+            {
+              "id": 3,
+              "statement": "She worked as a software engineer.",
+              "expectedResponse": "She didn't work as a software engineer.",
+              "userResponse": {
+                "text": ""
+              },
+              "words": []
+            },
+            {
+              "id": 4,
+              "statement": "We used version control systems.",
+              "expectedResponse": "We didn't use version control systems.",
+              "userResponse": {
+                "text": ""
+              },
+              "words": []
+            },
+            {
+              "id": 5,
+              "statement": "I started programming in high school.",
+              "expectedResponse": "I didn't start programming in high school.",
+              "userResponse": {
+                "text": ""
+              },
+              "words": []
+            },
+            {
+              "id": 6,
+              "statement": "They debugged the code successfully.",
+              "expectedResponse": "They didn't debug the code successfully.",
+              "userResponse": {
+                "text": ""
+              },
+              "words": []
+            },
+            {
+              "id": 7,
+              "statement": "He studied computer science at university.",
+              "expectedResponse": "He didn't study computer science at university.",
+              "userResponse": {
+                "text": ""
+              },
+              "words": []
+            }
+          ]
+        },
+        {
+          "id": "d",
+          "title": "Complete the questions with did.",
+          "type": "put-words",
+          "exercises": [
+            {
+              "id": 1,
+              "statement": "When did you start programming?",
+              "words": [
+                "did"
+              ],
+              "expectedResponse": "did",
+              "userResponse": {
+                "text": ""
+              }
+            },
+            {
+              "id": 2,
+              "statement": "What did he use for version control?",
+              "words": [
+                "did"
+              ],
+              "expectedResponse": "did",
+              "userResponse": {
+                "text": ""
+              }
+            },
+            {
+              "id": 3,
+              "statement": "Where did they store the backup files?",
+              "words": [
+                "did"
+              ],
+              "expectedResponse": "did",
+              "userResponse": {
+                "text": ""
+              }
+            },
+            {
+              "id": 4,
+              "statement": "How did she fix the bug?",
+              "words": [
+                "did"
+              ],
+              "expectedResponse": "did",
+              "userResponse": {
+                "text": ""
+              }
+            },
+            {
+              "id": 5,
+              "statement": "Why did you choose that programming language?",
+              "words": [
+                "did"
+              ],
+              "expectedResponse": "did",
+              "userResponse": {
+                "text": ""
+              }
+            },
+            {
+              "id": 6,
+              "statement": "Which database did they use?",
+              "words": [
+                "did"
+              ],
+              "expectedResponse": "did",
+              "userResponse": {
+                "text": ""
+              }
+            },
+            {
+              "id": 7,
+              "statement": "When did he join the software company?",
+              "words": [
+                "did"
+              ],
+              "expectedResponse": "did",
+              "userResponse": {
+                "text": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
