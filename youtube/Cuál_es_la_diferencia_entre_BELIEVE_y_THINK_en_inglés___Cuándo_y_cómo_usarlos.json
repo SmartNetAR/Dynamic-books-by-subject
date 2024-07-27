@@ -1,0 +1,104 @@
+[
+  {
+    "id": "1A",
+    "name": "Difference between Believe vs Think",
+    "sections": [
+      {
+        "id": 1,
+        "name": "grammar",
+        "title": "Believe es un verbo transitivo - Think es un verbo intransitivo",
+        "activities": [
+          {
+            "id": "a",
+            "title": "Complete the sentences with believe or think.",
+            "type": "put-correct-words",
+            "exercises": [
+              {
+                "id": 1,
+                "statement": "Do you still have cookies?. I think.",
+                "expectedResponse": "think",
+                "userResponse": {
+                  "text": ""
+                },
+                "words": [
+                  "think"
+                ]
+              },
+              {
+                "id": 2,
+                "statement": "Some people don't believe in God. What do you think?",
+                "expectedResponse": "",
+                "userResponse": {
+                  "text": ""
+                },
+                "words": [
+                  "think",
+                  "believe"
+                ]
+              },
+              {
+                "id": 3,
+                "statement": "I think that my mom will visit us next week. (Reflecting)",
+                "expectedResponse": "",
+                "userResponse": {
+                  "text": ""
+                },
+                "words": [
+                  "think"
+                ]
+              },
+              {
+                "id": 4,
+                "statement": "I believe that my mom will visit us next week. (Be more sure)",
+                "expectedResponse": "",
+                "userResponse": {
+                  "text": ""
+                },
+                "words": [
+                  "believe"
+                ]
+              },
+              {
+                "id": 5,
+                "statement": "They just couldn't believe their eyes. They thought it was a UFO.",
+                "expectedResponse": "do",
+                "userResponse": {
+                  "text": ""
+                },
+                "words": [
+                  "thought",
+                  "believe"
+                ]
+              },
+              {
+                "id": 6,
+                "statement": "Juan thinks, that Gina believes in ghosts. I can't believe it.",
+                "expectedResponse": "does",
+                "userResponse": {
+                  "text": ""
+                },
+                "words": [
+                  "thinks",
+                  "believe",
+                  "believes"
+                ]
+              },
+              {
+                "id": 7,
+                "statement": "I believed in everything she told me, but now I don't believe it",
+                "expectedResponse": "does",
+                "userResponse": {
+                  "text": ""
+                },
+                "words": [
+                  "believed",
+                  "believe"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
