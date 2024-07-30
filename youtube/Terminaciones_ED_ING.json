@@ -1,0 +1,148 @@
+[
+  {
+    "id": "1A",
+    "name": "Mastering Regular Verbs: Past Simple and Present Continuous",
+    "sections": [
+      {
+        "id": 1,
+        "name": "grammar",
+        "title": "Past Simple and Present Continuous",
+        "activities": [
+          {
+            "id": "a",
+            "title": "Write the correct form of verb with ED (past only) and ING (present continuous).",
+            "type": "write-sentence",
+            "exercises": [
+              {
+                "id": 1,
+                "statement": "Dare",
+                "expectedResponse": "dared, daring",
+                "userResponse": {
+                  "text": "dared, daring"
+                },
+                "words": []
+              },
+              {
+                "id": 2,
+                "statement": "Jeer",
+                "expectedResponse": "jeered, jeering",
+                "userResponse": {
+                  "text": ""
+                },
+                "words": []
+              },
+              {
+                "id": 3,
+                "statement": "Dot",
+                "expectedResponse": "dotted, dotting",
+                "userResponse": {
+                  "text": ""
+                },
+                "words": []
+              },
+              {
+                "id": 4,
+                "statement": "Loot",
+                "expectedResponse": "looted, looting",
+                "userResponse": {
+                  "text": ""
+                },
+                "words": []
+              },
+              {
+                "id": 5,
+                "statement": "Intensify",
+                "expectedResponse": "intensified, intensifying",
+                "userResponse": {
+                  "text": ""
+                },
+                "words": []
+              },
+              {
+                "id": 6,
+                "statement": "Destroy",
+                "expectedResponse": "destroyed, destroying",
+                "userResponse": {
+                  "text": ""
+                },
+                "words": []
+              },
+              {
+                "id": 7,
+                "statement": "Exit",
+                "expectedResponse": "exited, exiting",
+                "userResponse": {
+                  "text": ""
+                },
+                "words": []
+              },
+              {
+                "id": 8,
+                "statement": "Permit",
+                "expectedResponse": "permitted, permitting",
+                "userResponse": {
+                  "text": ""
+                },
+                "words": []
+              },
+              {
+                "id": 9,
+                "statement": "Laugh",
+                "expectedResponse": "laughed, laughing",
+                "userResponse": {
+                  "text": ""
+                },
+                "words": []
+              },
+              {
+                "id": 10,
+                "statement": "Plan",
+                "expectedResponse": "planned, planning",
+                "userResponse": {
+                  "text": ""
+                },
+                "words": []
+              },
+              {
+                "id": 11,
+                "statement": "Play",
+                "expectedResponse": "played, playing",
+                "userResponse": {
+                  "text": ""
+                },
+                "words": []
+              },
+              {
+                "id": 12,
+                "statement": "Dance",
+                "expectedResponse": "danced, dancing",
+                "userResponse": {
+                  "text": ""
+                },
+                "words": []
+              },
+              {
+                "id": 13,
+                "statement": "Watch",
+                "expectedResponse": "watched, watching",
+                "userResponse": {
+                  "text": ""
+                },
+                "words": []
+              },
+              {
+                "id": 14,
+                "statement": "Talk",
+                "expectedResponse": "talked, talking",
+                "userResponse": {
+                  "text": ""
+                },
+                "words": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
